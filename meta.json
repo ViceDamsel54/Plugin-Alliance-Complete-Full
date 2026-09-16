@@ -1,0 +1,23 @@
+{
+  "repo": "plugin-alliance-complete-full",
+  "product": "Plugin Alliance Complete Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "audio-plugins",
+  "topics": [
+    "plugin-alliance",
+    "mix-channel-strips",
+    "studio-fx-bundle",
+    "plugin-windows",
+    "console-eq-2026",
+    "how-to-install-plugin-alliance",
+    "plugin-alliance-package",
+    "mix-preset-desk",
+    "audio-fx-suite",
+    "pa-complete-bundle"
+  ],
+  "site": "toolix.me"
+}
